@@ -1,6 +1,9 @@
 # Proxy
 Android，IPhone，Windows and Linux configuration of proxy
 
-Newset configuration of proxy will be maintained in this README.Introduction is in "tutorials.docx"
+Newset skipGFW configuration of proxy will be maintained in "config.txt".Introduction is in "tutorials.docx"
 
-README里面会维护最新代理配置，tutorials.docx里面是教程。
+config.txt里面会维护最新翻墙代理配置，tutorials.docx里面是教程。
+
+
+--------------------------------------------------------------------------------------------
