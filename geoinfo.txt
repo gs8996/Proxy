@@ -1,176 +1,175 @@
 sg-03.smdynet.com  河南省郑州市 联通
 iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
 hk-06.smdynet.com  河南省郑州市 联通
-142.4.126.129  美国加利福尼亚圣何塞
 hk-05.smdynet.com  河南省郑州市 联通
+142.4.126.129  美国加利福尼亚圣何塞
 51.158.150.84  ºÉÀ¼¹şÀÕÄ·
 45.58.148.34  荷兰阿姆斯特丹
 v1-cu-1.anylinks.info  湖南省长沙市 联通
 51.89.122.175  德国黑森
 au-01.smdynet.com  河南省郑州市 联通
 v1-cu-2.anylinks.info  湖南省长沙市 联通
-weneedfreedom.ml  韩国首尔
 137.175.3.205  美国加利福尼亚圣何塞
-jp-07.smdynet.com  河南省郑州市 联通
+weneedfreedom.ml  韩国首尔
 162.159.211.103  ·º²¥ Cloudflare
+jp-07.smdynet.com  河南省郑州市 联通
 china-01-trass.py6.pw  广东省深圳市 移动
-sg-01.smdynet.com  河南省郑州市 联通
 hk-02.smdynet.com  河南省郑州市 联通
+sg-01.smdynet.com  河南省郑州市 联通
 v2-ct-1.anylinks.info  湖南省长沙市 联通
-142.4.100.195  美国加利福尼亚圣何塞
-v2-13.ssrsub.xyz  俄罗斯莫斯科
 us-05.smdynet.com  河南省郑州市 联通
+v2-13.ssrsub.xyz  俄罗斯莫斯科
+142.4.100.195  美国加利福尼亚圣何塞
 sg-02.smdynet.com  河南省郑州市 联通
 v1-cu-1.anylinks.info  湖南省长沙市 联通
 jp-02.smdynet.com  河南省郑州市 联通
-ccpisdevil.ml  日本东京
 pampersvk.tk  美国加利福尼亚洛杉矶
-v2-11.ssrsub.xyz  ¶íÂÞË¹
-jp-03.smdynet.com  河南省郑州市 联通
+ccpisdevil.ml  日本东京
 iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
-test.smdynet.com  河南省郑州市 联通
+jp-03.smdynet.com  河南省郑州市 联通
 cdp2019.tk  日本东京
+test.smdynet.com  河南省郑州市 联通
 142.4.100.194  美国加利福尼亚圣何塞
-sg-04.smdynet.com  河南省郑州市 联通
-v2-04.ssrsub.xyz  加拿大基奇纳
 hk-10.smdynet.com  河南省郑州市 联通
-fr-01.smdynet.com  河南省郑州市 联通
+v2-04.ssrsub.xyz  加拿大基奇纳
 canongood.ml  日本东京
+fr-01.smdynet.com  河南省郑州市 联通
 gd.cnhost.xyz  广东省中山市 移动
 154.84.1.101  荷兰阿姆斯特丹 Cloudinnovation
 a89d68d6a7a70aa5b.awsglobalaccelerator.com  泛播 亚马逊云
 tw-01.smdynet.com  河南省郑州市 联通
-v1-cu-2.anylinks.info  湖南省长沙市 联通
+v1-cu-2.anylinks.info  广东省 移动
 v2-07.ssrsub.xyz  ·º²¥ Cloudflare
 gz.cm-3.techonboard.org  广东省广州市 移动
 142.4.100.193  美国加利福尼亚圣何塞
 s14.snode.xyz  美国堪萨斯
 141.101.115.115  ·º²¥ Cloudflare
-en-01.smdynet.com  河南省郑州市 联通
-23.225.57.202  美国加利福尼亚洛杉矶 Cloudradium
 v1-cu-1.anylinks.info  湖南省长沙市 联通
-v2-cm-1.anylinks.info  湖南省长沙市 联通
-104.18.45.77  ·º²¥ Cloudflare
+23.225.57.202  美国加利福尼亚洛杉矶 Cloudradium
+en-01.smdynet.com  河南省郑州市 联通
 gr-01.smdynet.com  河南省郑州市 联通
+104.18.45.77  ·º²¥ Cloudflare
+v2-cm-1.anylinks.info  广东省 移动
 britagood.ml  日本东京
 142.0.129.202  美国加利福尼亚圣何塞
-v1-cu-2.anylinks.info  湖南省长沙市 联通
+v1-cu-2.anylinks.info  广东省 移动
 us-04.smdynet.com  河南省郑州市 联通
-v2-cm-2.anylinks.info  湖南省长沙市 联通
+v2-cm-2.anylinks.info  广东省 移动
 51.89.68.49  法国
 128.199.188.168  新加坡
-v2-cm-1.anylinks.info  湖南省长沙市 联通
-iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
 154.17.0.109  美国加利福尼亚洛杉矶 Cogent
-al-01.smdynet.com  河南省郑州市 联通
+iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
+v2-cm-1.anylinks.info  广东省 移动
 v2-ct-1.anylinks.info  湖南省长沙市 联通
+al-01.smdynet.com  河南省郑州市 联通
 137.175.3.206  美国加利福尼亚圣何塞
 51.195.12.145  德国黑森 OVH
 h4.coding996.com  美国纽约
+v2-cm-2.anylinks.info  广东省 移动
 137.175.3.204  美国加利福尼亚圣何塞
-v2-cm-2.anylinks.info  湖南省长沙市 联通
 qi6xqp28.ai3sda18.xyz  新加坡
-hk-01.smdynet.com  河南省郑州市 联通
 yyds.neurotoxin.cf  湖南省长沙市 联通
+hk-01.smdynet.com  河南省郑州市 联通
 v2-ct-1.anylinks.info  湖南省长沙市 联通
 142.4.108.229  美国加利福尼亚圣何塞
-v2.dex3.me  法国上法兰西鲁贝
-h1.coding996.com  美国纽约
 v2-ct-1.anylinks.info  湖南省长沙市 联通
-iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
+h1.coding996.com  美国纽约
+v2.dex3.me  法国上法兰西鲁贝
 142.4.104.226  美国加利福尼亚圣何塞
-burgerkinggood.ml  日本东京
+iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
 c-euser.okkk.ml  ·º²¥ Cloudflare
+burgerkinggood.ml  日本东京
 v1-cu-1.anylinks.info  湖南省长沙市 联通
-v2-cm-2.anylinks.info  湖南省长沙市 联通
+v2-cm-2.anylinks.info  广东省 移动
 applemusics.tk  韩国首尔
 us-01.smdynet.com  河南省郑州市 联通
 shcu.cnhost.xyz  湖南省长沙市 联通
-milkgogo.tk  美国华盛顿西雅图
-142.4.104.225  美国加利福尼亚圣何塞
-51.89.41.59  德国黑森
 h3.coding996.com  美国
+51.89.41.59  德国黑森
+142.4.104.225  美国加利福尼亚圣何塞
+milkgogo.tk  美国华盛顿西雅图
 us-03.smdynet.com  河南省郑州市 联通
 51.89.41.80  德国黑森
-107.167.20.181  美国加利福尼亚洛杉矶
 162.159.211.10  ·º²¥ Cloudflare
-104.233.240.249  美国加利福尼亚圣何塞
-v2-cm-1.anylinks.info  湖南省长沙市 联通
+107.167.20.181  美国加利福尼亚洛杉矶
 milkgogo.xyz  日本东京
+v2-cm-1.anylinks.info  广东省 移动
 jp-04.smdynet.com  河南省郑州市 联通
 test-us.smdynet.com  河南省郑州市 联通
-v1-cu-2.anylinks.info  湖南省长沙市 联通
 cdp2019.ml  日本东京
+v1-cu-2.anylinks.info  广东省 移动
 142.4.126.131  美国加利福尼亚圣何塞
 en-02.smdynet.com  河南省郑州市 联通
 51.89.41.78  德国黑森
-v1-cu-2.anylinks.info  湖南省长沙市 联通
 v2-05.ssrsub.xyz  ·º²¥ Cloudflare
-v1-cu-2.anylinks.info  湖南省长沙市 联通
+v1-cu-2.anylinks.info  广东省 移动
+v1-cu-2.anylinks.info  广东省 移动
 192.74.250.166  美国加利福尼亚圣何塞
 uni.kitsunebi.fun  法国巴黎
-v2-02.ssrsub.xyz  北美
+unicom.neurotoxin.cf  安徽省宿州市 联通
 h2.coding996.com  美国纽约
+v2-02.ssrsub.xyz  北美
 chinahumanr.ml  美国华盛顿西雅图
-51.89.21.57  德国黑森
 chinahr.ml  韩国首尔
-v2-cm-2.anylinks.info  湖南省长沙市 联通
+51.89.21.57  德国黑森
+v2-cm-2.anylinks.info  广东省 移动
 hk-08.smdynet.com  河南省郑州市 联通
 kr-01.smdynet.com  河南省郑州市 联通
 hk-03.smdynet.com  河南省郑州市 联通
 jp-10.smdynet.com  河南省郑州市 联通
 154.84.1.219  荷兰阿姆斯特丹 Cloudinnovation
-kr-02.smdynet.com  河南省郑州市 联通
 v1-cu-1.anylinks.info  湖南省长沙市 联通
+kr-02.smdynet.com  河南省郑州市 联通
 tw-05.smdynet.com  河南省郑州市 联通
 jp-05.smdynet.com  河南省郑州市 联通
-hk-07.smdynet.com  河南省郑州市 联通
 tacotasty.tk  日本东京
+hk-07.smdynet.com  河南省郑州市 联通
 milkgogo.cf  美国华盛顿西雅图
-tw-02.smdynet.com  河南省郑州市 联通
 142.0.129.201  美国加利福尼亚圣何塞
+tw-02.smdynet.com  河南省郑州市 联通
 v2-ct-1.anylinks.info  湖南省长沙市 联通
-v2-cm-1.anylinks.info  湖南省长沙市 联通
-v2-14.ssrsub.xyz  ¶íÂÞË¹
+v2-cm-1.anylinks.info  广东省 移动
 jp-09.smdynet.com  河南省郑州市 联通
+v2-14.ssrsub.xyz  ¶íÂÞË¹
 188.166.227.130  新加坡
 xibun.ml  日本东京
-hk-04.smdynet.com  河南省郑州市 联通
-a-euser.okkk.ml  ·º²¥ Cloudflare
 shcu.cnhost.xyz  湖南省长沙市 联通
+a-euser.okkk.ml  ·º²¥ Cloudflare
+hk-04.smdynet.com  河南省郑州市 联通
+itunes.apple.com.ray.jiyou.cloud  上海市上海市 联通
 199.180.102.200  美国加利福尼亚圣何塞
-tw-04.smdynet.com  河南省郑州市 联通
-jp-01.smdynet.com  河南省郑州市 联通
+b-euser.okkk.ml  ·º²¥ Cloudflare
 tw-03.smdynet.com  河南省郑州市 联通
-v2-cm-2.anylinks.info  湖南省长沙市 联通
-v2-03.ssrsub.xyz  北美
+jp-01.smdynet.com  河南省郑州市 联通
+tw-04.smdynet.com  河南省郑州市 联通
 v2-16.ssrsub.xyz  ·º²¥ Cloudflare
-us-02.smdynet.com  河南省郑州市 联通
+v2-03.ssrsub.xyz  北美
+v2-cm-2.anylinks.info  广东省 移动
 yyds.neurotoxin.cf  湖南省长沙市 联通
+us-02.smdynet.com  河南省郑州市 联通
 unicom.neurotoxin.cf  安徽省宿州市 联通
 auto.freev2.top  日本东京
 rocketgogo.ml  日本东京
-v2-12.ssrsub.xyz  ¶íÂÞË¹
 v2-ct-1.anylinks.info  湖南省长沙市 联通
 v2-06.ssrsub.xyz  ·º²¥ Cloudflare
-v2-01.ssrsub.xyz  加拿大基奇纳
-154.84.1.103  荷兰阿姆斯特丹 Cloudinnovation
 jp-08.smdynet.com  河南省郑州市 联通
+154.84.1.103  荷兰阿姆斯特丹 Cloudinnovation
+v2-01.ssrsub.xyz  加拿大基奇纳
 us119.mfjx-vip.xyz  美国加利福尼亚洛杉矶
 v2-09.ssrsub.xyz  俄罗斯莫斯科
-23.225.159.51  美国加利福尼亚洛杉矶
 fivedemands.ml  日本东京
+23.225.159.51  美国加利福尼亚洛杉矶
 lin.neurotoxin.cf  日本东京
 geniusbar.tk  韩国首尔
 51.89.7.206  德国黑森
-hk-09.smdynet.com  河南省郑州市 联通
 sg-05.smdynet.com  河南省郑州市 联通
+hk-09.smdynet.com  河南省郑州市 联通
+iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
 142.4.108.232  美国加利福尼亚圣何塞
-iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
 51.89.18.24  德国黑森
-v1-cu-1.anylinks.info  湖南省长沙市 联通
-jp-06.smdynet.com  河南省郑州市 联通
 iplc-sz-cm-1.anylinks.info  广东省深圳市 移动
+jp-06.smdynet.com  河南省郑州市 联通
+v1-cu-1.anylinks.info  湖南省长沙市 联通
 142.4.104.227  美国加利福尼亚圣何塞
-v2-15.ssrsub.xyz  ·º²¥ Cloudflare
 fr-02.smdynet.com  河南省郑州市 联通
+v2-15.ssrsub.xyz  ·º²¥ Cloudflare
