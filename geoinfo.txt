@@ -12,10 +12,8 @@ weneedfreedom.ml  韩国首尔
 162.159.211.103  ·º²¥ Cloudflare
 161.8.26.188  美国佛罗里达迈阿密
 nat4.pomu.xyz  江苏省徐州市 联通
-v2-ct-1.anylinks.info  湖南省长沙市 联通
 notoneless.ml  美国加利福尼亚洛杉矶
 142.4.100.195  美国加利福尼亚圣何塞
-sg-02.smdynet.com  河南省郑州市 联通
 nat4.pomu.xyz  江苏省徐州市 联通
 nat.pomu.xyz  江苏省徐州市 联通
 ccpisdevil.ml  日本东京
@@ -31,6 +29,7 @@ us04.pomu.xyz  香港特别行政区 阿里云
 hk-10.smdynet.com  河南省郑州市 联通
 v2-04.ssrsub.xyz  加拿大基奇纳
 s254.snode.xyz  香港特别行政区 阿里云
+canongood.ml  日本东京
 154.84.1.101  荷兰阿姆斯特丹 Cloudinnovation
 a89d68d6a7a70aa5b.awsglobalaccelerator.com  泛播 亚马逊云
 tw-01.smdynet.com  河南省郑州市 联通
@@ -47,7 +46,7 @@ gr-01.smdynet.com  河南省郑州市 联通
 s249.snode.xyz  香港特别行政区 阿里云
 britagood.ml  日本东京
 142.0.129.202  美国加利福尼亚圣何塞
-us29.pomu.xyz  新加坡 阿里云
+us29.pomu.xyz  台湾省台南县
 us-04.smdynet.com  河南省郑州市 联通
 s265.snode.xyz  韩国首尔
 s253.snode.xyz  美国 阿里云
@@ -88,6 +87,7 @@ us-03.smdynet.com  河南省郑州市 联通
 162.159.211.10  ·º²¥ Cloudflare
 107.167.20.181  美国加利福尼亚洛杉矶
 104.233.240.249  美国加利福尼亚圣何塞
+milkgogo.xyz  日本东京
 v2-cm-1.anylinks.info  湖南省长沙市 联通
 jp-04.smdynet.com  河南省郑州市 联通
 us-1.bp.liyun.edu.pl  美国加利福尼亚圣何塞
@@ -101,7 +101,6 @@ s266.snode.xyz  韩国首尔
 51.89.41.78  德国黑森
 hkt-002.liyun.edu.pl  香港特别行政区 电讯盈科
 us32.pomu.xyz  新加坡 亚马逊云
-v1-cu-2.anylinks.info  湖南省长沙市 联通
 v2-05.ssrsub.xyz  加拿大基奇纳
 v1-cu-2.anylinks.info  湖南省长沙市 联通
 auto.freev2.top  日本东京
@@ -117,8 +116,6 @@ hk-03.smdynet.com  河南省郑州市 联通
 jp-10.smdynet.com  河南省郑州市 联通
 154.84.1.219  荷兰阿姆斯特丹 Cloudinnovation
 kr-02.smdynet.com  河南省郑州市 联通
-v1-cu-1.anylinks.info  湖南省长沙市 联通
-tw-05.smdynet.com  河南省郑州市 联通
 18.132.47.221  英国英格兰伦敦 亚马逊云
 us30.pomu.xyz  美国纽约
 tacotasty.tk  日本东京
@@ -143,14 +140,12 @@ us-02.smdynet.com  河南省郑州市 联通
 rocketgogo.ml  日本东京
 s251.snode.xyz  香港特别行政区 阿里云
 s255.snode.xyz  美国 阿里云
-v2-12.ssrsub.xyz  ¶íÂÞË¹
 s173.snode.xyz  新加坡 阿里云
 v2-06.ssrsub.xyz  北美
 jp-08.smdynet.com  河南省郑州市 联通
 154.84.1.103  荷兰阿姆斯特丹 Cloudinnovation
 v2-01.ssrsub.xyz  加拿大基奇纳
 128.199.188.168  新加坡
-v2-09.ssrsub.xyz  俄罗斯莫斯科
 fivedemands.ml  日本东京
 23.225.159.51  美国加利福尼亚洛杉矶
 geniusbar.tk  韩国首尔
