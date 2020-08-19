@@ -26,6 +26,7 @@ cdp2019.tk  日本东京
 142.4.100.194  美国加利福尼亚圣何塞
 s262.snode.xyz  韩国首尔
 s22.snode.xyz  美国堪萨斯
+guangdong04.vq1021.site  广东省广州市 移动
 us04.pomu.xyz  香港特别行政区 阿里云
 v2-04.ssrsub.xyz  加拿大基奇纳
 s254.snode.xyz  香港特别行政区 阿里云
@@ -43,6 +44,7 @@ s14.snode.xyz  美国堪萨斯
 104.18.45.77  ·º²¥ Cloudflare
 s249.snode.xyz  香港特别行政区 阿里云
 britagood.ml  日本东京
+76.223.65.238  泛播 亚马逊云
 142.0.129.202  美国加利福尼亚圣何塞
 us29.pomu.xyz  新加坡 阿里云
 s265.snode.xyz  韩国首尔
@@ -72,13 +74,12 @@ h3.coding996.com  美国
 142.4.104.225  美国加利福尼亚圣何塞
 milkgogo.tk  美国华盛顿西雅图
 s13.snode.xyz  韩国首尔
-us-03.smdynet.com  河南省郑州市 联通
+34.80.202.158  台湾省彰化县 谷歌云
 www.kernels.bid  ·º²¥ Cloudflare
 162.159.211.10  ·º²¥ Cloudflare
 107.167.20.181  美国加利福尼亚洛杉矶
 104.233.240.249  美国加利福尼亚圣何塞
 milkgogo.xyz  日本东京
-jp-04.smdynet.com  河南省郑州市 联通
 us-1.bp.liyun.edu.pl  美国加利福尼亚圣何塞
 nat5.pomu.xyz  江苏省徐州市 联通
 cdp2019.ml  日本东京
@@ -116,6 +117,7 @@ a-euser.okkk.ml  ·º²¥ Cloudflare
 sgp01.node.1ms.xyz  新加坡
 b-euser.okkk.ml  ·º²¥ Cloudflare
 us08.pomu.xyz  香港特别行政区 微软云
+shandong01.vq1021.site  山东省青岛市 移动
 v2-16.ssrsub.xyz  美国
 v2-03.ssrsub.xyz  北美
 us-02.smdynet.com  河南省郑州市 联通
@@ -132,11 +134,10 @@ fivedemands.ml  日本东京
 www.kernels.bid  ·º²¥ Cloudflare
 172.247.198.126  美国加利福尼亚洛杉矶
 51.89.7.206  德国黑森
-sg-05.smdynet.com  河南省郑州市 联通
 142.4.108.232  美国加利福尼亚圣何塞
 45.58.149.3  荷兰阿姆斯特丹
 154.84.1.210  荷兰阿姆斯特丹 Cloudinnovation
-shlt.vq1021.site  上海市上海市 联通
 142.4.104.227  美国加利福尼亚圣何塞
+13.248.202.99  泛播 亚马逊云
 v2-15.ssrsub.xyz  美国内华达拉斯维加斯
 s267.snode.xyz  韩国首尔
