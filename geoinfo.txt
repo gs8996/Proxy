@@ -1,87 +1,71 @@
 142.4.126.129  美国加利福尼亚圣何塞
 51.158.150.84  ºÉÀ¼¹şÀÕÄ·
-s12.snode.xyz  韩国首尔
-aga01.node.1ms.xyz  泛播 亚马逊云
 45.58.148.34  荷兰阿姆斯特丹
 v2-08.ssrsub.xyz  俄罗斯莫斯科
-player-baidu.com  广东省广州市 移动
 51.89.122.175  德国黑森
 174.139.160.115  美国加利福尼亚洛杉矶
+chinahumanr.tk  日本东京
 weneedfreedom.ml  韩国首尔
 137.175.3.205  美国加利福尼亚圣何塞
 162.159.211.103  ·º²¥ Cloudflare
 v2us01.isxa.top  美国加利福尼亚费利蒙
-142.4.100.195  美国加利福尼亚圣何塞
 v2-13.ssrsub.xyz  俄罗斯莫斯科
-nat4.pomu.xyz  江苏省徐州市 联通
+142.4.100.195  美国加利福尼亚圣何塞
 v1hk004.recare.xyz  泛播 亚马逊云
-nat.pomu.xyz  江苏省徐州市 联通
+ccpisdevil.ml  日本东京
 pampersvk.tk  美国加利福尼亚洛杉矶
 141.164.36.20  韩国首尔
-64.190.90.123  美国新泽西纽瓦克
 v2-11.ssrsub.xyz  ¶íÂÞË¹
 172.104.87.244  日本东京
 65.52.181.181  香港特别行政区 微软云
+cdp2019.tk  日本东京
 142.4.100.194  美国加利福尼亚圣何塞
 104.43.23.127  新加坡 微软云
-s22.snode.xyz  美国堪萨斯
 v2-04.ssrsub.xyz  加拿大基奇纳
 us04.pomu.xyz  香港特别行政区 阿里云
 s254.snode.xyz  香港特别行政区 阿里云
-canongood.ml  日本东京
 v2us03.isxa.top  美国加利福尼亚费利蒙
 154.84.1.101  荷兰阿姆斯特丹 Cloudinnovation
 a89d68d6a7a70aa5b.awsglobalaccelerator.com  泛播 亚马逊云
 v2-07.ssrsub.xyz  北美
-player-baidu.com  广东省广州市 移动
 142.4.100.193  美国加利福尼亚圣何塞
 s14.snode.xyz  美国堪萨斯
 141.101.115.115  ·º²¥ Cloudflare
 004.pomu.xyz  美国加利福尼亚洛杉矶
-23.225.57.202  美国加利福尼亚洛杉矶
+23.225.57.202  美国加利福尼亚洛杉矶 Cloudradium
 104.18.45.77  ·º²¥ Cloudflare
 s249.snode.xyz  香港特别行政区 阿里云
-britagood.ml  日本东京
 76.223.65.238  泛播 亚马逊云
 142.0.129.202  美国加利福尼亚圣何塞
 us29.pomu.xyz  新加坡 阿里云
 s253.snode.xyz  美国 阿里云
-s265.snode.xyz  韩国首尔
-s268.snode.xyz  韩国首尔
 51.89.68.49  法国
-s263.snode.xyz  韩国首尔
 137.175.3.206  美国加利福尼亚圣何塞
-s264.snode.xyz  韩国首尔
 s257.snode.xyz  香港特别行政区 阿里云
-taipei-001.liyun.edu.pl  台湾省台北市 中�A��信
 45.63.127.206  日本东京
 h4.coding996.com  美国纽约
-tw02.node.1ms.xyz  台湾省台北市 中�A��信
 137.175.3.204  美国加利福尼亚圣何塞
 142.4.108.229  美国加利福尼亚圣何塞
 hk.kvmsub.xyz  香港特别行政区 微软云
 h1.coding996.com  美国纽约
 vr-baidu.com  广东省广州市 移动
-auto.freev2.top  日本东京
 c-euser.okkk.ml  ·º²¥ Cloudflare
-applemusics.tk  韩国首尔
+burgerkinggood.ml  日本东京
 193.9.44.108  德国纽伦堡
+applemusics.tk  韩国首尔
 v2us02.isxa.top  美国加利福尼亚费利蒙
 milkgogo.tk  美国华盛顿西雅图
 142.4.104.225  美国加利福尼亚圣何塞
 h3.coding996.com  美国
-v1hk005.recare.xyz  广东省广州市 移动
 s1.se13.xyz  新加坡
 www.kernels.bid  ·º²¥ Cloudflare
 107.167.20.181  美国加利福尼亚洛杉矶
 162.159.211.10  ·º²¥ Cloudflare
 104.233.240.249  美国加利福尼亚圣何塞
-milkgogo.xyz  日本东京
 us-1.bp.liyun.edu.pl  美国加利福尼亚圣何塞
-nat5.pomu.xyz  江苏省徐州市 联通
+cdp2019.ml  日本东京
 142.4.126.131  美国加利福尼亚圣何塞
 s258.snode.xyz  香港特别行政区 阿里云
-player-baidu.com  广东省广州市 移动
 154.84.1.81  荷兰阿姆斯特丹 Cloudinnovation
 v2-05.ssrsub.xyz  加拿大基奇纳
 157.52.168.12  美国加利福尼亚洛杉矶
@@ -91,17 +75,15 @@ v2-05.ssrsub.xyz  加拿大基奇纳
 uni.kitsunebi.fun  法国巴黎
 v2-02.ssrsub.xyz  北美
 h2.coding996.com  美国纽约
-188.166.227.130  新加坡
-chinahr.ml  韩国首尔
 51.89.21.57  德国黑森
+chinahr.ml  韩国首尔
 xfhkt01.dynu.net  香港特别行政区 电讯盈科
-fanyi-baidu.com  广东省广州市 移动
 154.84.1.219  荷兰阿姆斯特丹 Cloudinnovation
-vr-baidu.com  广东省广州市 移动
 18.132.47.221  英国英格兰伦敦 亚马逊云
 v1hk001.recare.xyz  泛播 亚马逊云
 milkgogo.cf  美国华盛顿西雅图
 s2.se13.xyz  新加坡
+v2-14.ssrsub.xyz  ¶íÂÞË¹
 154.84.1.234  荷兰阿姆斯特丹 Cloudinnovation
 xibun.ml  日本东京
 a-euser.okkk.ml  ·º²¥ Cloudflare
@@ -114,14 +96,14 @@ v2-16.ssrsub.xyz  美国
 v2-03.ssrsub.xyz  北美
 s255.snode.xyz  美国 阿里云
 s251.snode.xyz  香港特别行政区 阿里云
+v2-12.ssrsub.xyz  ¶íÂÞË¹
 51.89.7.16  德国黑森
 u11.se13.xyz  美国新泽西皮斯卡特维
 s173.snode.xyz  新加坡 阿里云
 v2-06.ssrsub.xyz  北美
 v2-01.ssrsub.xyz  加拿大基奇纳
 154.84.1.103  荷兰阿姆斯特丹 Cloudinnovation
-128.199.188.168  新加坡
-v2-09.ssrsub.xyz  俄罗斯莫斯科
+fivedemands.ml  日本东京
 www.kernels.bid  ·º²¥ Cloudflare
 23.225.159.51  美国加利福尼亚洛杉矶
 172.247.198.126  美国加利福尼亚洛杉矶
@@ -129,6 +111,7 @@ geniusbar.tk  韩国首尔
 51.89.7.206  德国黑森
 142.4.108.232  美国加利福尼亚圣何塞
 45.58.149.3  荷兰阿姆斯特丹
+auto.freev2.top  日本东京
 154.84.1.210  荷兰阿姆斯特丹 Cloudinnovation
 13.248.202.99  泛播 亚马逊云
 v2-15.ssrsub.xyz  美国内华达拉斯维加斯
