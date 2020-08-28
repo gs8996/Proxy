@@ -1,10 +1,8 @@
 142.4.126.129  美国加利福尼亚圣何塞
 51.158.150.84  ºÉÀ¼¹şÀÕÄ·
-hk-8.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 45.58.148.34  荷兰阿姆斯特丹
 v2-08.ssrsub.xyz  俄罗斯莫斯科
 51.89.122.175  德国黑森
-fsyd.qiutan.pw  广东省广州市 移动
 jp-1.azure.v2ray.ikuuu.pro  日本东京 微软云
 174.139.160.115  美国加利福尼亚洛杉矶
 chinahumanr.tk  日本东京
@@ -13,18 +11,19 @@ chinahumanr.tk  日本东京
 192.74.234.99  美国加利福尼亚圣何塞
 45.140.169.80  俄罗斯莫斯科
 v2us01.isxa.top  美国加利福尼亚费利蒙
-hk-5.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
+zjx2.cu.xlddns.xyz  江苏省镇江市润州区 联通
 notoneless.ml  美国加利福尼亚洛杉矶
-jp-3.azure.v2ray.ikuuu.pro  日本东京 微软云
 v1hk004.recare.xyz  泛播 亚马逊云
-ccpisdevil.ml  日本东京
+zjx2.cu.xlddns.xyz  江苏省镇江市润州区 联通
 pampersvk.tk  美国加利福尼亚洛杉矶
+ccpisdevil.ml  日本东京
 141.164.36.20  韩国首尔
 23.225.57.205  美国加利福尼亚洛杉矶 Cloudradium
 rack.tiktok.page  Á¢ÌÕÍð
 172.104.87.244  日本东京
 65.52.181.181  香港特别行政区 微软云
 cdp2019.tk  日本东京
+auto.freev2.top  日本东京
 142.4.100.194  美国加利福尼亚圣何塞
 104.43.23.127  新加坡 微软云
 v2-04.ssrsub.xyz  加拿大基奇纳
@@ -38,7 +37,6 @@ t1.yt004.xyz  台湾省台北市 中�A��信
 v2-07.ssrsub.xyz  北美
 142.4.100.193  美国加利福尼亚圣何塞
 198.13.50.113  日本东京
-auto.freev2.top  日本东京
 s14.snode.xyz  美国堪萨斯
 141.101.115.115  ·º²¥ Cloudflare
 004.pomu.xyz  美国加利福尼亚洛杉矶
@@ -61,14 +59,11 @@ fsyd.qiutan.pw  广东省广州市 移动
 154.84.1.30  荷兰阿姆斯特丹 Cloudinnovation
 137.175.3.206  美国加利福尼亚圣何塞
 s257.snode.xyz  香港特别行政区 阿里云
-hk-7.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 45.63.127.206  日本东京
 h4.coding996.com  美国纽约
 154.84.1.66  荷兰阿姆斯特丹 Cloudinnovation
-137.175.3.204  美国加利福尼亚圣何塞
 45.147.200.240  ¶íÂÞË¹
-120.224.163.137  山东省青岛市 移动
-111.6.76.115  河南省南阳市 移动
+137.175.3.204  美国加利福尼亚圣何塞
 142.4.108.229  美国加利福尼亚圣何塞
 hk.kvmsub.xyz  香港特别行政区 微软云
 h1.coding996.com  美国纽约
@@ -89,21 +84,17 @@ s1.se13.xyz  新加坡
 154.84.1.194  荷兰阿姆斯特丹 Cloudinnovation
 www.kernels.bid  ·º²¥ Cloudflare
 154.84.1.143  荷兰阿姆斯特丹 Cloudinnovation
-107.167.20.181  美国加利福尼亚洛杉矶
 162.159.211.10  ·º²¥ Cloudflare
+104.233.240.249  美国加利福尼亚圣何塞
 142.4.108.81  美国加利福尼亚圣何塞
 milkgogo.xyz  日本东京
 us-1.bp.liyun.edu.pl  美国加利福尼亚圣何塞
-fsyd.qiutan.pw  广东省广州市 移动
 107.148.209.105  美国加利福尼亚圣何塞
 cdp2019.ml  日本东京
-hk-6.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 142.4.126.131  美国加利福尼亚圣何塞
 s258.snode.xyz  香港特别行政区 阿里云
 101.69.128.216  浙江省温州市 联通
-hk-4.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 210.65.91.2  台湾省台北市
-120.232.154.253  广东省广州市 移动
 154.84.1.81  荷兰阿姆斯特丹 Cloudinnovation
 v2-05.ssrsub.xyz  加拿大基奇纳
 157.52.168.12  美国加利福尼亚洛杉矶
@@ -117,9 +108,6 @@ h2.coding996.com  美国纽约
 chinahumanr.ml  美国华盛顿西雅图
 51.89.21.57  德国黑森
 chinahr.ml  韩国首尔
-fsyd.qiutan.pw  广东省广州市 移动
-fsyd.qiutan.pw  广东省广州市 移动
-gzyd.qiutan.pw  广东省广州市 移动
 154.84.1.164  荷兰阿姆斯特丹 Cloudinnovation
 xfhkt01.dynu.net  香港特别行政区 电讯盈科
 192.74.250.164  美国加利福尼亚圣何塞
@@ -139,21 +127,17 @@ hk-9.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 a-euser.okkk.ml  ·º²¥ Cloudflare
 s4.yt003.xyz  新加坡
 199.180.102.200  美国加利福尼亚圣何塞
-gzyd.qiutan.pw  广东省广州市 移动
 172.247.199.244  美国加利福尼亚洛杉矶
 b-euser.okkk.ml  ·º²¥ Cloudflare
 sgp01.node.1ms.xyz  新加坡
 v2-16.ssrsub.xyz  ·º²¥ Cloudflare
 v2-03.ssrsub.xyz  北美
-hk-2.azure.v2ray.ikuuu.pro  香港特别行政区 微软云
 h5.yt004.xyz  香港特别行政区 阿里云
 107.148.209.104  美国加利福尼亚圣何塞
 jp-2.azure.v2ray.ikuuu.pro  日本东京 微软云
 rocketgogo.ml  日本东京
-jp-4.azure.v2ray.ikuuu.pro  日本东京 微软云
 s255.snode.xyz  美国 阿里云
 s251.snode.xyz  香港特别行政区 阿里云
-gzyd.qiutan.pw  广东省广州市 移动
 51.89.7.16  德国黑森
 u11.se13.xyz  美国新泽西皮斯卡特维
 s173.snode.xyz  新加坡 阿里云
@@ -167,7 +151,6 @@ fivedemands.ml  日本东京
 www.kernels.bid  ·º²¥ Cloudflare
 23.225.159.51  美国加利福尼亚洛杉矶
 207.148.89.142  日本东京
-gzyd.qiutan.pw  广东省广州市 移动
 172.247.198.126  美国加利福尼亚洛杉矶
 154.84.1.41  荷兰阿姆斯特丹 Cloudinnovation
 51.89.7.206  德国黑森
@@ -179,4 +162,3 @@ v2ray1.tiktok.page  香港特别行政区 阿里云
 13.248.202.99  泛播 亚马逊云
 142.4.104.227  美国加利福尼亚圣何塞
 v2-15.ssrsub.xyz  ·º²¥ Cloudflare
-jp-5.azure.v2ray.ikuuu.pro  日本东京 微软云
