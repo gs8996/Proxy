@@ -1,13 +1,8 @@
 V2Ray Proxy
-Android，IPhone，Windows and Linux configuration of proxy
-
-Newset skipGFW configuration of proxy will be maintained in "config.txt".
-
-Introduction is in "tutorials.docx".
-
-"geoinfo.txt"  is nodes' located information.
 
 config.txt里面会维护最新翻墙代理配置。
+
+v2ray-sub的链接是订阅链接，会不定期更新，速度最优的在前。
 
 tutorials.docx里面是教程。
 
